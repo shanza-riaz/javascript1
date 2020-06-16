@@ -691,7 +691,7 @@ var multidimension_array = [
 ];
 document.write(multidimension_array[0]+"<br>");
 document.write(multidimension_array[1]+"<br>");
-document.write(multidimension_array[2]+"<br> 
+document.write(multidimension_array[2]+"<br>"); 
 /* question 3 */
 for (i=1; i<=10; i++){
     document.write(i+"<br>")
